@@ -12,5 +12,4 @@ def fizzbuzz(number)
   end
 
   return number  
-  
 end
